@@ -55,13 +55,13 @@ To see if you can login into instance. Two things need to be done:
 
 To check your PublicIP, LightSail has manage option on the instance. Click the icon that has 3 dots
 
-![Three Dot Icon](https://screenshots.firefox.com/UsZg984d39cZMif7/lightsail.aws.amazon.com)
+![Three Dot Icon](/images/dot.png)
 
 Click the manage option.  You'll go to a screen looking this:
 
 Management Console
 
-![Management Console](https://screenshots.firefox.com/GkLvc76LR7h51E1c/lightsail.aws.amazon.com)
+![Management Console](/images/console.png)
 
 Once you are able to access the instance, lets update our system and then create our new user.
 
